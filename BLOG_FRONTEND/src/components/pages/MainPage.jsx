@@ -1,6 +1,4 @@
-import { ReactElement } from "react";
-
-function MainPage(): ReactElement {
+function MainPage() {
   return (
     <div>
       <p>MainPage</p>

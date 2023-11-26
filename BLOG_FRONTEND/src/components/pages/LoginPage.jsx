@@ -1,7 +1,6 @@
-import { ReactElement } from "react";
 import { Link } from "react-router-dom";
 
-function LogingPage(): ReactElement {
+function LogingPage() {
   return (
     <form
       onSubmit={(e) => e.preventDefault()}

@@ -9,7 +9,7 @@ instance.interceptors.request.use(
   async (config) => {
     const token = await localforage.getItem("token");
     if (token) {
-      config.headers.Authorization = token as string; // Assuming token is a string
+      config.headers.Authorization = token; // Assuming token is a string
     }
     return config;
   },
