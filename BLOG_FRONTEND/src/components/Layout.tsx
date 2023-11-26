@@ -1,17 +1,16 @@
-import { ReactNode } from "react";
+import React from "react";
+import { NavBar } from "./NavBar";
 
-interface LayoutProps {
-  children: ReactNode;
-}
-
-const Layout = ({ children }: LayoutProps) => {
-  // Ваша логика компонента Layout, использующая children
+function Layout({ children }) {
   return (
-    <div className="layout">
-      {children}
-      <p>sd</p>
-    </div>
+    <React.Fragment>
+      <div className="container mx-auto">
+        <NavBar />
+        {children}
+      </div>
+      ;
+    </React.Fragment>
   );
-};
+}
 
 export { Layout };

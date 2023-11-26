@@ -1,0 +1,25 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "CSS", "JSON with Comments", "JavaScript", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/.eslintrc.cjs", "JavaScript", 0, 0, 0, 0, 18, 0, 0, 0, 0, 1, 19
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 22, 0, 0, 9, 31
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 18, 0, 1, 19
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/package-lock.json", "JSON", 0, 0, 0, 0, 0, 3835, 0, 0, 0, 1, 3836
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/package.json", "JSON", 0, 0, 0, 0, 0, 35, 0, 0, 0, 1, 36
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/postcss.config.js", "JavaScript", 0, 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/App.tsx", "TypeScript JSX", 0, 23, 0, 0, 0, 0, 0, 0, 2, 3, 28
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/Layout.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 1, 4, 18
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/NavBar.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/AddPostPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/EditPostPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/LoginPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/MainPage.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/PostPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/PostsPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/components/pages/RegisterPage.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/index.css", "CSS", 0, 0, 8, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/main.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/tailwind.config.js", "JavaScript", 0, 0, 0, 0, 7, 0, 0, 0, 1, 1, 9
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/tsconfig.json", "JSON with Comments", 0, 0, 0, 21, 0, 0, 0, 0, 2, 3, 26
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/tsconfig.node.json", "JSON", 0, 0, 0, 0, 0, 10, 0, 0, 0, 1, 11
+"/Users/jenekbasota/Desktop/BLOG_FRONTEND/BLOG_FRONTEND/vite.config.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 5, 89, 8, 21, 31, 3880, 22, 18, 8, 57, 4139
